@@ -3,9 +3,9 @@
 <?php
 
     $variable = 'Saman';
-    echo 'My name is $variable';    #Prints My name is $variable
+    echo 'My name is $variable';    #Prints --> My name is $variable
 	echo "<br>";
-    echo "My name is $variable";    #Prints My name is Saman
+    echo "My name is $variable";    #Prints --> My name is Saman
 	
 	/*Single Quotes (' '): When you use single quotes to enclose a string, 
 	PHP treats the content literally, meaning it won't interpret variables 

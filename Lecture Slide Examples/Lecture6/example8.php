@@ -6,7 +6,7 @@
 	#Then, we must escape it by using a backslash
 
 	$phrase1 = 'It\'s time to go'; 
-	$phrase2 = "He said \"OK\" "; 
+	$phrase2 = "He said \"OK\""; 
 
 
 	echo $phrase1;
