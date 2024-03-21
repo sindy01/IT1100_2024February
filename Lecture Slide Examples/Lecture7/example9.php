@@ -11,7 +11,7 @@
 		$greet = "Hello "; 
 		echo $greet . "Name: " . $name . " - Age: " . $age; 
 	} 
-
+	
 	testFunc();
 	
 ?>

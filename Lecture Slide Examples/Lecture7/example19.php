@@ -3,7 +3,7 @@
 <?php
    if(isset($_POST['BtnSubmit']))
    {
-      echo "<h3> Your form data as bellow </h3>";
+      echo "<h3> Your form data as below </h3>";
       echo "</br>Your Name : {$_POST['FullName']}";
       echo "</br>Your are : {$_POST['YourGender']}";
       echo "<hr>";
