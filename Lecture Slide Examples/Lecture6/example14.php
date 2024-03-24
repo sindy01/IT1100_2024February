@@ -7,6 +7,7 @@
 <?php
 	$x = rand(1,5);  	//Generate a random integer from 1 to 5
 	echo "x = $x <br/><br/>";
+	
 	switch ($x)
 	{
 	case 1:

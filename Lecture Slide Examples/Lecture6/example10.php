@@ -17,7 +17,7 @@
 	//echo and print will do the same function of displaying the content
 	
 	//We can't use $ sign infront of the Constants
-	# echo $UNI or print $UNI will make errors
+	#echo $NU or print $NU will give errors
 	
 ?>
 
